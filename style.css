@@ -1,0 +1,54 @@
+header {
+background-color: #00a2ff;
+height: 100px
+
+}
+
+footer {
+background-color: #00a2ff;
+
+}
+
+#icon {
+padding-left: 25px
+}
+
+.header-content {
+position: relative;
+bottom: 35px;
+color: white;
+padding-left: 25px;
+display: inline-block;
+}
+
+.right {
+position: absolute;
+right: 0px;
+padding-right: 250px;
+display: inline-block;
+}
+
+#profile-pic {
+border-style: solid;
+border-color: #00a2ff}
+
+
+ul {
+list-style-type: none;
+}
+
+.list-position {
+position: relative;
+top: 5px;
+}
+
+h5 {
+text-align: center;
+}
+
+.footer-text {
+color:white;
+text-align: center;
+vertical-align: middle;
+
+}
